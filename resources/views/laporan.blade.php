@@ -30,7 +30,7 @@
                                 <div class="list-group-item">
                                     <div class="d-flex justify-content-between align-items-center">
                                         <h5 class="mb-1">Laporan Tahunan</h5>
-                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/Laporan-Tahunan-2024.pdf') }}" download>
+                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/Laporan-Tahunan-BprSahabatSejati-2024.pdf') }}" download>
                                             Download PDF
                                         </a>
                                     </div>
@@ -41,37 +41,24 @@
                                 <div class="list-group-item">
                                     <div class="d-flex justify-content-between align-items-center">
                                         <h5 class="mb-1">Laporan RKAB</h5>
-                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/rkab-2024.pdf') }}" download>
+                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/RKAB-BprSahabatSejati-2024.pdf') }}" download>
                                             Download PDF
                                         </a>
                                     </div>
                                     <small class="text-muted">Diterbitkan:  Desember 2024</small>
                                 </div>
-                                
-                                <!-- Laporan 3 (Contoh dengan multiple buttons) -->
+                                <!-- Laporan 3 (Contoh dengan single file) -->
                                 <div class="list-group-item">
                                     <div class="d-flex justify-content-between align-items-center">
-                                        <h5 class="mb-1">Laporan PUBLIKASI</h5>
-                                        <div>
-                                            <a class="btn btn-sm btn-primary me-2" href="{{ asset('assets/document/LKPK-LKP-01.pdf') }}" download>
-                                                Posisi Keuangan
-                                            </a>
-                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-02.pdf') }}" download>
-                                                Laba Rugi
-                                            </a>
-                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-03.pdf') }}" download>
-                                               Kualitas Aset
-                                            </a>
-                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-04.pdf') }}" download>
-                                                Komitmen Kontinjensi
-                                            </a>
-                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-05.pdf') }}" download>
-                                                Informasi Lainya
-                                            </a>
-                                        </div>
+                                        <h5 class="mb-1">Laporan Publikasi</h5>
+                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/Laporan-publikasi-bprsahabatsejati.pdf') }}" download>
+                                            Download PDF
+                                        </a>
                                     </div>
-                                    <small class="text-muted">Diterbitkan: Maret 2025</small>
+                                    <small class="text-muted">Diterbitkan:  Maret 2025</small>
                                 </div>
+                                
+                                
                             </div>
                         </article>
                     </div>
