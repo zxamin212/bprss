@@ -3,13 +3,14 @@
     <div class="page-title">
         <div class="heading">
             <div class="container">
+                <h1>Laporan Tahunan</h1>
             </div>
         </div>
         <nav class="breadcrumbs">
             <div class="container">
                 <ol>
                     <li><a href="/">Home</a></li>
-                    <li class="current">Laporan </li>
+                    <li class="current">Laporan</li>
                 </ol>
             </div>
         </nav>
@@ -25,37 +26,53 @@
                             
                             <!-- List Laporan -->
                             <div class="list-group mt-4">
-                                <!-- Laporan 1 -->
+                            
                                 <div class="list-group-item">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <h5 class="mb-1">Laporan Tahunan</h5>
-                                    <a class="btn btn-sm btn-primary" href="https://drive.google.com/drive/folders/1OAofIJaN-9xRAZS_oOfOOSTj2W73wo-H?usp=sharing" target="_blank">
-                                        Lihat
-                                    </a>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <h5 class="mb-1">Laporan Tahunan</h5>
+                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/Laporan-Tahunan-2024.pdf') }}" download>
+                                            Download PDF
+                                        </a>
+                                    </div>
+                                    <small class="text-muted">Diterbitkan:  Desember 2024</small>
                                 </div>
-                                <small class="text-muted">Diterbitkan: 15 Januari 2024 </small>
-                            </div>
-                                <!-- Laporan 2 -->
+                                
+                                <!-- Laporan 2 (Contoh dengan single file) -->
                                 <div class="list-group-item">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <h5 class="mb-1">Laporan Publikasi</h5>
-                                    <a class="btn btn-sm btn-primary" href="https://drive.google.com/drive/folders/1f_Go7xaUYa0zpkj_TzB5KPMhkbe9HGpy?usp=sharing" target="_blank">
-                                        Lihat
-                                    </a>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <h5 class="mb-1">Laporan RKAB</h5>
+                                        <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/rkab-2024.pdf') }}" download>
+                                            Download PDF
+                                        </a>
+                                    </div>
+                                    <small class="text-muted">Diterbitkan:  Desember 2024</small>
                                 </div>
-                                <small class="text-muted">Diterbitkan: 15 Januari 2024</small>
-                            </div>
-                                <!-- Laporan 3 -->
+                                
+                                <!-- Laporan 3 (Contoh dengan multiple buttons) -->
                                 <div class="list-group-item">
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <h5 class="mb-1">Laporan RKAB</h5>
-                                    <a class="btn btn-sm btn-primary" href="https://drive.google.com/drive/folders/1uiWY12JZldW1CXw18eZFM2ukAKp82bnl?usp=sharing" target="_blank">
-                                        Lihat
-                                    </a>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <h5 class="mb-1">Laporan PUBLIKASI</h5>
+                                        <div>
+                                            <a class="btn btn-sm btn-primary me-2" href="{{ asset('assets/document/LKPK-LKP-01.pdf') }}" download>
+                                                Posisi Keuangan
+                                            </a>
+                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-02.pdf') }}" download>
+                                                Laba Rugi
+                                            </a>
+                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-03.pdf') }}" download>
+                                               Kualitas Aset
+                                            </a>
+                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-04.pdf') }}" download>
+                                                Komitmen Kontinjensi
+                                            </a>
+                                            <a class="btn btn-sm btn-primary" href="{{ asset('assets/document/LKPK-LKP-05.pdf') }}" download>
+                                                Informasi Lainya
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <small class="text-muted">Diterbitkan: Maret 2025</small>
                                 </div>
-                                <small class="text-muted">Diterbitkan: 15 Januari 2024 </small>
                             </div>
-                         
                         </article>
                     </div>
                 </section>
@@ -63,3 +80,6 @@
         </div>
     </div>
 </x-layout>
+
+<!-- Pastikan Bootstrap JS sudah terload -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
