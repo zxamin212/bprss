@@ -33,36 +33,34 @@
                     <article>
   
                       <div class="post-img">
-                        <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/blog/takjil 1.jpg" alt="" class="img-fluid">
                       </div>
   
                       <h2 class="title">
-                        <a href="blog-details.html">Judul Artikel 1</a>
+                        <a href="/blog1">🎉 Selamat kepada Pemenang Hadiah Utama Undian Tabungan Ciremaiku! 🎉</a>
                       </h2>
   
                       <div class="meta-top">
                         <ul>
-                          <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.html">John Doe</a></li>
-                          <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.html"><time datetime="2022-01-01">Jan 1, 2022</time></a></li>
-                          <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-details.html">12 Comments</a></li>
+                          <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.html">PT BPR SAHABAT SEJATI</a></li>
+                          <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.html"><time datetime="2022-01-01">Maret 12, 2025</time></a></li>
                         </ul>
                       </div>
   
                       <div class="content">
                         <p>
-                          Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
-                          Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.
+                          Kami segenap keluarga besar PT BPR SAHABAT SEJATI mengucapkan selamat yang sebesar-besarnya kepada nasabah setia kami yang telah berhasil meraih Hadiah Utama berupa 1 (satu) unit mobil dalam acara Undian Tabungan Ciremaiku!
                         </p>
   
                         <div class="read-more">
-                          <a href="blog-details.html">Read More &raquo;</a>
+                          <a href="/blog1">Read More &raquo;</a>
                         </div>
                       </div>
   
                     </article>
                   </div><!-- End post list item -->
   
-                  <div class="col-12">
+           <!--       <div class="col-12">
   
                     <article>
   
@@ -93,10 +91,11 @@
                       </div>
   
                     </article>
+
+                  </div>
+                  End post list item -->
   
-                  </div><!-- End post list item -->
-  
-                  <div class="col-12">
+          <!--        <div class="col-12">
   
                     <article>
   

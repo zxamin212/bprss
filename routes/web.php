@@ -51,6 +51,10 @@ Route::get('/pinek', function () {
 Route::get('/wuss', function () {
     return view('wuss');
 });
+Route::get('/blog1', function () {
+    return view('blog1');
+});
+
 
 Route::get('/simulasi-kredit', [KreditController::class, 'showForm']);
 Route::post('/hitung-kredit', [KreditController::class, 'hitungAngsuran'])->name('hitung-kredit');
