@@ -33,7 +33,7 @@
                     <article>
   
                       <div class="post-img">
-                        <img src="assets/img/blog/takjil 1.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/blog/ciremai/mobil/IMG_9307.JPG" alt="" class="img-fluid">
                       </div>
   
                       <h2 class="title">
@@ -43,7 +43,7 @@
                       <div class="meta-top">
                         <ul>
                           <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.html">PT BPR SAHABAT SEJATI</a></li>
-                          <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.html"><time datetime="2022-01-01">Maret 12, 2025</time></a></li>
+                          <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.html"><time datetime="2022-01-01">24 JULI 2025</time></a></li>
                         </ul>
                       </div>
   
@@ -60,42 +60,41 @@
                     </article>
                   </div><!-- End post list item -->
   
-           <!--       <div class="col-12">
+                  <div class="col-12">
   
                     <article>
   
                       <div class="post-img">
-                        <img src="assets/img/blog/blog-2.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/blog/ciremai/motor/IMG_92311.JPG" alt="" class="img-fluid">
                       </div>
   
                       <h2 class="title">
-                        <a href="blog-details.html">Nisi magni odit consequatur autem nulla dolorem</a>
+                        <a href="blog-details.html">Selamat untuk Ibu Ratna Puji Suswati, Pemenang Motor dari Tabungan Ciremaiku!</a>
                       </h2>
   
                       <div class="meta-top">
                         <ul>
-                          <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.html">John Doe</a></li>
-                          <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.html"><time datetime="2022-01-01">Jan 1, 2022</time></a></li>
-                          <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="blog-details.html">12 Comments</a></li>
+                          <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="blog-details.html">PT BPR SAHABAT SEJATI</a></li>
+                          <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="blog-details.html"><time datetime="2022-01-01">24 JULI 2025</time></a></li>
                         </ul>
                       </div>
   
                       <div class="content">
                         <p>
-                          Incidunt voluptate sit temporibus aperiam. Quia vitae aut sint ullam quis illum voluptatum et. Quo libero rerum voluptatem pariatur nam.
-                          Ad impedit qui officiis est in non aliquid veniam laborum. Id ipsum qui aut. Sit aliquam et quia molestias laboriosam. Tempora nam odit omnis eum corrupti qui aliquid excepturi molestiae. Facilis et sint quos sed voluptas. Maxime sed tempore enim omnis non alias odio quos distinctio.
+                          Halo Sahabat Setia BPR Sahabat Sejati!<br>
+                         Kami punya kabar gembira yang membanggakan untuk dibagikan! Di tengah semangat kebersamaan, kami ingin mengucapkan selamat yang setulus-tulunya kepada salah satu nasabah beruntung kami, Bapak/Ibu Ratna Puji Suswati, yang berhasil membawa pulang satu unit sepeda motor keren!
                         </p>
                         <div class="read-more">
-                          <a href="blog-details.html">Read More</a>
+                          <a href="/blog2">Read More</a>
                         </div>
                       </div>
   
                     </article>
 
                   </div>
-                  End post list item -->
+                 <!-- End post list item -->
   
-          <!--        <div class="col-12">
+                  {{-- <div class="col-12">
   
                     <article>
   
@@ -123,7 +122,7 @@
                         <div class="read-more">
                           <a href="blog-details.html">Read More</a>
                         </div>
-                      </div>
+                      </div> --}}
   
                     </article>
   

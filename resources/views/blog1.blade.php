@@ -25,11 +25,11 @@
     
             <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
               <div class="card">
-                <img src="assets/img/blog/takjil 1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/blog/ciremai/mobil/IMG_9307.JPG" class="img-fluid" alt="">
                 <h3>🎉 Selamat kepada Pemenang Hadiah Utama Undian Tabungan Ciremaiku! 🎉</h3>
 
                 <p style="text-align: justify;">
-                  Kami segenap keluarga besar PT BPR SAHABAT SEJATI mengucapkan selamat yang sebesar-besarnya kepada nasabah setia kami yang telah berhasil meraih Hadiah Utama berupa 1 (satu) unit mobil dalam acara Undian Tabungan Ciremaiku!
+                  Kami segenap keluarga besar PT BPR SAHABAT SEJATI mengucapkan selamat yang sebesar-besarnya kepada nasabah setia kami ibu ida aida yang telah berhasil meraih Hadiah Utama berupa 1 (satu) unit mobil dalam acara Undian Tabungan Ciremaiku!
                 </p>
                 
                 
@@ -49,15 +49,14 @@
                   Terus nantikan program-program menarik lainnya dari kami, dan tetaplah menjadi bagian dari perjalanan sukses bersama PT BPR SAHABAT SEJATI.
                 </p>
 
-                <p style="text-align: justify">
-                 acara undian bisa disaksikan disini
-                  <br/>
-                  <a href="https://www.youtube.com/live/TUv9k7ID58M?si=9ZrI3Zjw8nUOifqy">ACARA UNDIAN CIREMAIKU</a>
-                </p>
+                <div class="text-align">
+                    <img src="assets/img/blog/ciremai/mobil/IMG_93061.JPG" class="w-50 ; rounded float-start" alt="kegiatan berbagi">
+                    <img src="assets/img/blog/ciremai/mobil/IMG_9318.JPG" class="w-50 ; rounded float-end" alt="kegiatan berbagi">
+                </div>
 
                 <div class="text-align">
-                    <img src="assets/img/blog/takjil/takjil2.jpg" class="w-50 ; rounded float-start" alt="kegiatan berbagi">
-                    <img src="assets/img/blog/takjil/takjil3.jpg" class="w-50 ; rounded float-end" alt="kegiatan berbagi">
+                    <img src="assets/img/blog/ciremai/mobil/IMG_93101111.JPG" class="w-50 ; rounded float-start" alt="kegiatan berbagi">
+                    <img src="assets/img/blog/ciremai/mobil/IMG_93091.JPG" class="w-50 ; rounded float-end" alt="kegiatan berbagi">
                 </div>
                   
                 
