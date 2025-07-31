@@ -45,9 +45,9 @@
             <div class="col-md-6">
               <div class="info-item" data-aos="fade" data-aos-delay="300">
                 <i class="bi bi-telephone"></i>
-                <h3>Telpon/Fax</h3>
+                <h3>Telpon/Fax & Whatsapp</h3>
                 <p>(0231) 341066 </p>  
-                <P>082127132261</P>              
+                <a href="https://wa.me/082127132261">Chat via WhatsApp</a>              
               </div>
             </div><!-- End Info Item -->
 
