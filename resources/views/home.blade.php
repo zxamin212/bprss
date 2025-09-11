@@ -503,16 +503,56 @@
     </div>
   </section> --}}
 
-  
 
   <!-- Contact Section -->
+
+  <section id="services" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Bantuan</h2>
+        <p>Cara Mengajukan Pengaduan Nasabah Secara Lisan</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item item-teal position-relative">
+              <i class="bi bi-telephone icon"></i>
+              <h3>Telpon/Fax & Whatsapp</h3>
+              <p>Hubungi melalui : (0231) 341066</p>
+              <a href="https://wa.me/082127132261">Chat via WhatsApp</a> 
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item item-cyan position-relative">
+              <i class="bi bi-building icon"></i>
+              <h3>Kantor</h3>
+              <p>Datangi Jaringan Kantor Layanan BPR Sahabat Sejati</p>
+              {{-- <a href="#" class="read-more stretched-link"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> --}}
+            </div>
+          </div><!-- End Service Item -->
+        </div>
+
+      </div>
+
+    </section>
+
+
+
   <section id="contact" class="contact section">
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Contact</h2>
-      <p>Contact Us</p>
+      <h2>MEDIA PENYAMPAIAN</h2>
+      <p>Cara Mengajukan Pengaduan Nasabah Secara Tertulis</p>
+      
     </div><!-- End Section Title -->
+
+    
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -537,11 +577,11 @@
                 <a href="https://wa.me/082127132261">Chat via WhatsApp</a>              
               </div>
             </div><!-- End Info Item -->
-
+            
             <div class="col-md-6">
               <div class="info-item" data-aos="fade" data-aos-delay="500">
                 <i class="bi bi-clock"></i>
-                <h3>Jam Buka</h3>
+                <h3>Kantor</h3>
                 <p>Senin - Jum'at Jam </p>
                 <p>08:00 - 17:00</p>
               </div>
@@ -551,7 +591,7 @@
               <div class="info-item" data-aos="fade" data-aos-delay="400">
                 <i class="bi bi-envelope"></i>
                 <h3>Email</h3>
-                <a href="">bprsahabatsejati@yahoo.com</a>              
+                <a href="mailto:bprsahabatsejati@yahoo.com">bprsahabatsejati@yahoo.com</a>              
               </div>
             </div><!-- End Info Item -->
 
@@ -569,7 +609,7 @@
               <div class="info-item" data-aos="fade" data-aos-delay="500">
                 <i class="bi bi-facebook"></i>
                 <h3>Facebook</h3>
-                <a href="">PT. BPR SAHABAT SEJATI</a>
+                <a href="#">PT. BPR SAHABAT SEJATI</a>
               </div>
             </div><!-- End Info Item -->
 
@@ -577,7 +617,7 @@
               <div class="info-item" data-aos="fade" data-aos-delay="500">
                 <i class="bi bi-tiktok"></i>
                 <h3>Tiktok</h3>
-                <a href="">PT. BPR SAHABAT SEJATI</a>
+                <a href="https://www.tiktok.com/@bprss.official">PT. BPR SAHABAT SEJATI</a>
               </div>
             </div><!-- End Info Item -->
 

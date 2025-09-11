@@ -6,7 +6,7 @@
       <li><a href="/jaringan">Jaringan</a></li>
       <li><a href="/direksi">Direksi</a></li>
       <li><a href="/informasi">Informasi</a></li>
-      <li><a href="/contact">Contact</a></li>
+      <li><a href="/contact">Bantuan</a></li>
       <li><a href="/laporan">Laporan</a></li>
       {{-- <li><a href="/posts">Blog</a></li>         --}}
       {{-- <li><a href="/simulasi-kredit">Simulasi Kredit</a></li>         --}}
