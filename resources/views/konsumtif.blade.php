@@ -25,7 +25,7 @@
     
             <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
               <div class="card">
-                <img src="assets/img/cc.jpg" class="img-fluid" alt="">
+                <img src="assets/img/konsumtif.jpeg" class="img-fluid" alt=""><br>
                 <h3>Kredit Konsumtif</h3>
                 <p style="text-align: justify;">
                   Kredit Konsumtif adalah salah satu jasa yang diberikan Bank dalam bentuk kredit yang ditujukan untuk membiayai kebutuhan nasabah, terutama yang berhubungan dengan kegiatan konsumtif (memenuhi kebutuhan konsumtif). Kredit Konsumtif (Consumer Loan) merupakan strategi penyaluran kredit seperti untuk membiayai pembelian rumah tinggal, renovasi rumah tinggal, membiayai pembelian kendaraan, perabot elektronik, dan lain-lain yang bersifat konsumtif kepada individual. Pada umumnya, pembayaran angsuran-angsuran dan pelunasan Kredit Konsumtif bersumber dari penghasilan usaha atau gaji debitur.

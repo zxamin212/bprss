@@ -36,6 +36,12 @@ Route::get('/contact', function () {
 Route::get('/tabungan', function () {
     return view('tabungan');
 });
+Route::get('/ciremai', function () {
+    return view('ciremai');
+});
+Route::get('/berjangka', function () {
+    return view('berjangka');
+});
 Route::get('/deposito', function () {
     return view('deposito');
 });

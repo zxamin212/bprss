@@ -70,6 +70,20 @@
             <a href="/tabungan" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div><!-- End Card Item -->
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="card">
+            <img src="assets/img/tb.png" class="img-fluid" alt="">
+            <h3>Tabungan Berjangka</h3>
+            <a href="/berjangka" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div><!-- End Card Item -->
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="card">
+            <img src="assets/img/bukuciremai.png" class="img-fluid" alt="">
+            <h3>Tabungan Ciremaiku</h3>
+            <a href="/ciremai" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div><!-- End Card Item -->
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
           <div class="card">
@@ -81,7 +95,7 @@
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
-            <img src="assets/img/cc.jpg" class="img-fluid" alt="">
+            <img src="assets/img/kredit.png" class="img-fluid" alt="">
             <h3>KREDIT KONSUMTIF</h3>
             <a href="/konsumtif" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
           </div>
@@ -89,7 +103,7 @@
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
-            <img src="assets/img/cc.jpg" class="img-fluid" alt="">
+            <img src="assets/img/kredit.png" class="img-fluid" alt="">
             <h3>KREDIT UMK (Usaha Mikro Kecil) </h3>
             <a href="/umkm" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
           </div>
@@ -97,19 +111,19 @@
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
-            <img src="assets/img/cc.jpg" class="img-fluid" alt="">
+            <img src="assets/img/kredit.png" class="img-fluid" alt="">
             <h3>KREDIT PINEK (Pinjaman Ekslusif)</h3>
             <a href="/pinek" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
           </div>
         </div><!-- End Card Item -->
 
-        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+        {{-- <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
             <img src="assets/img/cc.jpg" class="img-fluid" alt="">
             <h3>KREDIT WUSS (Wira Usaha Sahabat Sejati)</h3>
             <a href="/wuss" class="read-more stretched-link"><span>Info Selengkapnya</span> <i class="bi bi-arrow-right"></i></a>
           </div>
-        </div><!-- End Card Item -->
+        </div> --}}
 
        
 

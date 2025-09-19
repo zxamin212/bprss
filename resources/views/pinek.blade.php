@@ -25,7 +25,7 @@
     
             <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
               <div class="card">
-                <img src="assets/img/cc.jpg" class="img-fluid" alt="">
+                <img src="assets/img/kredit.png" class="img-fluid" alt="">
                 <h3>Kredit Pinjaman Eksekutif</h3>
 
                 <p style="text-align: justify;">

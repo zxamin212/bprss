@@ -25,7 +25,7 @@
     
             <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
               <div class="card">
-                <img src="assets/img/cc.jpg" class="img-fluid" alt="">
+                <img src="assets/img/umk.jpeg" class="img-fluid" alt=""><br>
                 <h3>Kredit Usaha Mikro Kecil (UMK)</h3>
 
                 <p style="text-align: justify;">
